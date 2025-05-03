@@ -30,8 +30,9 @@ export default function Intro() {
         <h2 className="text-xl md:text-2xl text-gray-700 mt-2">Full-Stack Developer | React & Next.js Enthusiast</h2>
 
         <p className={'mt-4 mb-4'}>
-            Welcome to my portfolio! I'm Fatima Mehmood Ali, A passionate beginner in web development. I'm excited to share my journey with you as I explore the world of technology and design. Here, you'll find my projects and ideas as I learn and grow in this amazing field. Thank you for visiting!!
+            Welcome to my portfolio! I&apos;m Fatima Mehmood Ali, a passionate beginner in web development. I&apos;m excited to share my journey with you as I explore the world of technology and design. Here, you&apos;ll find my projects and ideas as I learn and grow in this amazing field. Thank you for visiting!!
         </p>
+
         <ScrollLink
           to={HeaderItems.projects.page}
           className={'bg-pink-900 rounded text-neutral-100 flex w-28 h-10 m-auto items-center justify-center md:m-0'}
